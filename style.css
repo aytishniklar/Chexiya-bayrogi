@@ -1,0 +1,10 @@
+body{
+  background: gray;
+}
+#czechrepublic {
+  height: 0;
+  width: 150px;
+  border-top: solid 100px #fff;
+  border-bottom: solid 100px #d7141a;
+  border-left: solid 150px #11457e;
+}
